@@ -1,0 +1,32 @@
+Paul Graham (/ɡræm/; born November 13, 1964)[3] is an English-American computer scientist, writer and essayist, entrepreneur and investor. His work includes the programming language Arc, the startup Viaweb (later renamed Yahoo! Store), co-founding the startup accelerator and seed capital firm Y Combinator, a number of essays and books, and the media webpage Hacker News.
+
+He is the author of the computer programming books On Lisp,[4] ANSI Common Lisp,[5] and Hackers & Painters.[6] Technology journalist Steven Levy has described Graham as a "hacker philosopher".[7]
+
+Graham was born in England, where he and his family have maintained a permanent residence since 2016. He is also a citizen of the United States, where he attended all of his schooling and lived for 48 years prior to returning to England.
+
+
+Education and early life
+Graham and his family moved to Pittsburgh, Pennsylvania, in 1968, where he attended Gateway High School. Graham gained interest in science and mathematics from his father who was a nuclear physicist.[8]
+
+Graham received a Bachelor of Arts with a major in philosophy from Cornell University in 1986.[9][10][11] He then received a Master of Science in 1988, and a Doctor of Philosophy in 1990, both in computer science from Harvard University.[9][12]
+
+Graham has also studied fine arts and painting at the Rhode Island School of Design and at the Accademia di Belle Arti in Florence.[9][12]
+
+
+Career
+In 1996, Graham and Robert Morris founded Viaweb and recruited Trevor Blackwell shortly after. They believed that Viaweb was the first application service provider.[13] Graham received a patent for webapps based on his work at Viaweb.[14] Viaweb's software, written mostly in Common Lisp, allowed users to make their own Internet stores. In the summer of 1998, after Jerry Yang received a strong recommendation from Ali Partovi,[15] Viaweb was sold to Yahoo! for 455,000 shares of Yahoo! stock, valued at $49.6 million.[16] After the acquisition, the product became Yahoo! Store.
+
+Graham later gained notice for his essays, which he posts on his personal website. Essay subjects range from "Beating the Averages",[17] which compares Lisp to other programming languages and introduced the hypothetical programming language Blub, to "Why Nerds are Unpopular",[18] a discussion of nerd life in high school. A collection of his essays has been published as Hackers & Painters[6] by O'Reilly Media, which includes a discussion of the growth of Viaweb and the advantages of Lisp to program it.
+
+In 2001, Graham announced that he was working on a new dialect of Lisp named Arc. It was released on 29 January 2008.[19] Over the years since, he has written several essays describing features or goals of the language, and some internal projects at Y Combinator have been written in Arc, including the Hacker News web forum and news aggregator program.
+
+In 2005, after giving a talk at the Harvard Computer Society later published as "How to Start a Startup", Graham along with Trevor Blackwell, Jessica Livingston, and Robert Morris started Y Combinator to provide seed funding to startups, particularly those started by younger, more technically oriented founders. Y Combinator has invested in more than 1300 startups, including Reddit, Twitch (formerly Justin.tv), Xobni, Dropbox, Airbnb, and Stripe.[20]
+
+BusinessWeek included Paul Graham in the 2008 edition of its annual feature, The 25 Most Influential People on the Web.[21]
+
+In response to the proposed Stop Online Piracy Act (SOPA), Graham announced in late 2011 that no representatives of any company supporting it would be invited to Y Combinator's Demo Day events.[22]
+
+In February 2014, Graham stepped down from his day-to-day role at Y Combinator.[23]
+
+In October 2019, Graham announced a specification for another new dialect of Lisp, written in itself, named Bel.[24]
+
